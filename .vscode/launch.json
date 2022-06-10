@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Sandbox",
+            "request": "launch",
+            "type": "al",          
+            "startupObjectType":"Report",
+            "startupObjectId": 80100,
+            "breakOnError": true,
+            "launchBrowser": true,
+            "tenant": "Your Tenant Id", 
+            "environmentName":"Your Sandbox Name",
+            "environmentType": "Sandbox",
+            "schemaUpdateMode": "ForceSync",
+            "forceUpgrade": true,
+        }
+    ]
+}

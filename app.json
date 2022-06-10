@@ -1,0 +1,30 @@
+{
+  "id": "1b8f4f60-a1d1-48af-8f04-9d1e6b9b9af3",
+  "name": "Barcode1D2D",
+  "publisher": "IvanSinglenton",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://ivansinglenton.dev/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "features": ["TranslationFile","GenerateCaptions"],
+  "idRanges": [
+    {
+      "from": 80100,
+      "to": 80149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
