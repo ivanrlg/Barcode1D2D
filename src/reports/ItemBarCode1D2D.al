@@ -42,12 +42,6 @@ report 80100 ItemBarCode1D2D
             Type = Word;
             LayoutFile = 'src\reports\ItemBarcodes.docx';
         }
-        layout("src\reports\ItemBarcodes.rdl")
-        {
-            Type = RDLC;
-            LayoutFile = 'src\reports\ItemBarcodes.rdl';
-        }
-
     }
 
     local procedure Generate_Bardcode_Code39_1D()
